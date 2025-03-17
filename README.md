@@ -4,6 +4,7 @@
 
 **Web Application**: [Streamlit](https://data-science-salary-predict.streamlit.app/).
 
+![Screenshot 2025-03-17 101217](https://github.com/user-attachments/assets/3570506a-346a-48b0-b61b-e05445be14a2)
 
 ## 📌 Project Overview
 
