@@ -2,10 +2,11 @@ import streamlit as st
 import pandas as pd
 import joblib
     
+st.set_page_config(layout="wide", page_title="Data Science Job Salary Predictor", page_icon="💵")
+
 if __name__ == '__main__':
     model = joblib.load('model/xgb_salary_predictor.pkl')
     df    = pd.read_csv("data/data_model.csv")
-
 
     st.title("Data Science Job Salary Predictor 💵")
     st.write("This application allows you to enter job-related features and provides a prediction of the average salary 🤑.")
