@@ -1,1 +1,4 @@
 .env
+.venv
+notebooks/wandb/
+outputs/qlora/

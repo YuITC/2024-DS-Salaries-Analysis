@@ -1,0 +1,1778 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: <intent>\n- Location: New York, NY\n- State/Province:  NY\n- Headquarters: New York, NY\n- Company Size: 51 to 200 employees\n- Ownership Type: Company - Private\n- Industry: Internet\n- Sector: Information Technology\n- Revenue: $100 to $500 million (USD)\n- Required Skills: Python=1, Spark=1, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "140000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: Wish\n- Location: San Jose, CA\n- State/Province:  CA\n- Headquarters: San Francisco, CA\n- Company Size: 501 to 1000 employees\n- Ownership Type: Company - Private\n- Industry: Other Retail Stores\n- Sector: Retail\n- Revenue: $1 to $2 billion (USD)\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "163500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: SMC 3\n- Location: Louisville, KY\n- State/Province:  KY\n- Headquarters: Peachtree City, GA\n- Company Size: 51 to 200 employees\n- Ownership Type: Nonprofit Organization\n- Industry: Logistics & Supply Chain\n- Sector: Transportation & Logistics\n- Revenue: $10 to $25 million (USD)\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "84000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: Esri\n- Location: Redlands, CA\n- State/Province:  CA\n- Headquarters: Redlands, CA\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Company - Private\n- Industry: Computer Hardware & Software\n- Sector: Information Technology\n- Revenue: $1 to $2 billion (USD)\n- Required Skills: Python=1, Spark=1, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "107000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Other\n- Company: Sauce Labs\n- Location: San Francisco, CA\n- State/Province:  CA\n- Headquarters: San Francisco, CA\n- Company Size: 201 to 500 employees\n- Ownership Type: Company - Private\n- Industry: IT Services\n- Sector: Information Technology\n- Revenue: $50 to $100 million (USD)\n- Required Skills: Python=1, Spark=0, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "88000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Entry Level\n- Company: Nuna\n- Location: San Francisco, CA\n- State/Province:  CA\n- Headquarters: San Francisco, CA\n- Company Size: 51 to 200 employees\n- Ownership Type: Company - Private\n- Industry: Enterprise Software & Network Solutions\n- Sector: Information Technology\n- Revenue: Unknown\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "142500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: other scientist\n- Seniority: Other\n- Company: Edgewell Personal Care\n- Location: Allendale, NJ\n- State/Province:  NJ\n- Headquarters: Shelton, CT\n- Company Size: 5001 to 10000 employees\n- Ownership Type: Company - Public\n- Industry: Consumer Products Manufacturing\n- Sector: Manufacturing\n- Revenue: $2 to $5 billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "82500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: BPA Services\n- Location: Washington, DC\n- State/Province:  DC\n- Headquarters: Alexandria, VA\n- Company Size: Unknown\n- Ownership Type: Company - Private\n- Industry: Enterprise Software & Network Solutions\n- Sector: Information Technology\n- Revenue: Unknown\n- Required Skills: Python=0, Spark=0, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "155000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Associate\n- Company: Caterpillar\n- Location: Peoria, IL\n- State/Province:  IL\n- Headquarters: Deerfield, IL\n- Company Size: 10000+ employees\n- Ownership Type: Company - Public\n- Industry: Industrial Manufacturing\n- Sector: Manufacturing\n- Revenue: $10+ billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "81000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: Netskope\n- Location: San Francisco, CA\n- State/Province:  CA\n- Headquarters: Santa Clara, CA\n- Company Size: 501 to 1000 employees\n- Ownership Type: Company - Private\n- Industry: Enterprise Software & Network Solutions\n- Sector: Information Technology\n- Revenue: Unknown\n- Required Skills: Python=1, Spark=1, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "154500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Entry Level\n- Company: Pacific Northwest National Laboratory\n- Location: Richland, WA\n- State/Province:  WA\n- Headquarters: Richland, WA\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Government\n- Industry: Energy\n- Sector: Oil, Gas, Energy & Utilities\n- Revenue: $500 million to $1 billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "67000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: research scientist\n- Seniority: Other\n- Company: GNS Healthcare\n- Location: Cambridge, MA\n- State/Province:  MA\n- Headquarters: Cambridge, MA\n- Company Size: 51 to 200 employees\n- Ownership Type: Company - Private\n- Industry: Biotech & Pharmaceuticals\n- Sector: Biotech & Pharmaceuticals\n- Revenue: $10 to $25 million (USD)\n- Required Skills: Python=0, Spark=0, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "87500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: goTRG\n- Location: Miami, FL\n- State/Province:  FL\n- Headquarters: Miami, FL\n- Company Size: 501 to 1000 employees\n- Ownership Type: Company - Private\n- Industry: Enterprise Software & Network Solutions\n- Sector: Information Technology\n- Revenue: $100 to $500 million (USD)\n- Required Skills: Python=1, Spark=1, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "85500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Other\n- Company: CentralReach\n- Location: Matawan, NJ\n- State/Province:  NJ\n- Headquarters: Pompano Beach, FL\n- Company Size: 201 to 500 employees\n- Ownership Type: Company - Private\n- Industry: Computer Hardware & Software\n- Sector: Information Technology\n- Revenue: Unknown\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "56500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: Beck's Hybrids\n- Location: Atlanta, IN\n- State/Province:  IN\n- Headquarters: Atlanta, IN\n- Company Size: 501 to 1000 employees\n- Ownership Type: Company - Private\n- Industry: Farm Support Services\n- Sector: Agriculture & Forestry\n- Revenue: $50 to $100 million (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "80500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Associate\n- Company: L.A. Care Health Plan\n- Location: Los Angeles, CA\n- State/Province:  CA\n- Headquarters: Los Angeles, CA\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Nonprofit Organization\n- Industry: Health Care Services & Hospitals\n- Sector: Health Care\n- Revenue: Unknown\n- Required Skills: Python=1, Spark=1, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "119500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data engineer\n- Seniority: Senior/Principal\n- Company: Red Ventures\n- Location: Charlotte, NC\n- State/Province:  NC\n- Headquarters: Fort Mill, SC\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Company - Private\n- Industry: Advertising & Marketing\n- Sector: Business Services\n- Revenue: $1 to $2 billion (USD)\n- Required Skills: Python=0, Spark=1, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "134000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Other\n- Company: Synagro\n- Location: Baltimore, MD\n- State/Province:  MD\n- Headquarters: Baltimore, MD\n- Company Size: 501 to 1000 employees\n- Ownership Type: Company - Private\n- Industry: Research & Development\n- Sector: Business Services\n- Revenue: $100 to $500 million (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "62000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: other scientist\n- Seniority: Associate\n- Company: Pharmavite\n- Location: Valencia, CA\n- State/Province:  CA\n- Headquarters: West Hills, CA\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Company - Private\n- Industry: Consumer Products Manufacturing\n- Sector: Manufacturing\n- Revenue: $1 to $2 billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "81500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Senior/Principal\n- Company: Evolve Vacation Rental\n- Location: Denver, CO\n- State/Province:  CO\n- Headquarters: Denver, CO\n- Company Size: 201 to 500 employees\n- Ownership Type: Company - Private\n- Industry: Travel Agencies\n- Sector: Travel & Tourism\n- Revenue: Unknown\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "105000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Senior/Principal\n- Company: PatientPoint\n- Location: Cincinnati, OH\n- State/Province:  OH\n- Headquarters: Cincinnati, OH\n- Company Size: 201 to 500 employees\n- Ownership Type: Company - Private\n- Industry: Advertising & Marketing\n- Sector: Business Services\n- Revenue: $100 to $500 million (USD)\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "100000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data engineer\n- Seniority: Associate\n- Company: BlueCross BlueShield of Tennessee\n- Location: Chattanooga, TN\n- State/Province:  TN\n- Headquarters: Chattanooga, TN\n- Company Size: 5001 to 10000 employees\n- Ownership Type: Nonprofit Organization\n- Industry: Insurance Carriers\n- Sector: Insurance\n- Revenue: $5 to $10 billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "106500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Senior/Principal\n- Company: KnowBe4\n- Location: Clearwater, FL\n- State/Province:  FL\n- Headquarters: Clearwater, FL\n- Company Size: 501 to 1000 employees\n- Ownership Type: Company - Private\n- Industry: Security Services\n- Sector: Business Services\n- Revenue: $100 to $500 million (USD)\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "61000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Senior/Principal\n- Company: Genentech\n- Location: South San Francisco, CA\n- State/Province:  CA\n- Headquarters: South San Francisco, CA\n- Company Size: 10000+ employees\n- Ownership Type: Subsidiary or Business Segment\n- Industry: Biotech & Pharmaceuticals\n- Sector: Biotech & Pharmaceuticals\n- Revenue: $10+ billion (USD)\n- Required Skills: Python=1, Spark=1, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "169000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: Legal & General America\n- Location: Frederick, MD\n- State/Province:  MD\n- Headquarters: Frederick, MD\n- Company Size: 501 to 1000 employees\n- Ownership Type: Company - Private\n- Industry: Insurance Carriers\n- Sector: Insurance\n- Revenue: $500 million to $1 billion (USD)\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "107000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data engineer\n- Seniority: Senior/Principal\n- Company: The Church of Jesus Christ of Latter-day Saints\n- Location: Riverton, UT\n- State/Province:  UT\n- Headquarters: Salt Lake City, UT\n- Company Size: 10000+ employees\n- Ownership Type: Nonprofit Organization\n- Industry: Religious Organizations\n- Sector: Non-Profit\n- Revenue: Unknown\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "107000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: other scientist\n- Seniority: Senior/Principal\n- Company: Takeda Pharmaceuticals\n- Location: San Diego, CA\n- State/Province:  CA\n- Headquarters: OSAKA, Japan\n- Company Size: 10000+ employees\n- Ownership Type: Company - Public\n- Industry: Biotech & Pharmaceuticals\n- Sector: Biotech & Pharmaceuticals\n- Revenue: $10+ billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "151500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Senior/Principal\n- Company: Dodge Data & Analytics\n- Location: Hamilton, NJ\n- State/Province:  NJ\n- Headquarters: Hamilton, NJ\n- Company Size: 201 to 500 employees\n- Ownership Type: Company - Private\n- Industry: IT Services\n- Sector: Information Technology\n- Revenue: Unknown\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "77500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: other scientist\n- Seniority: Senior/Principal\n- Company: Rochester Regional Health\n- Location: Rochester, NY\n- State/Province:  NY\n- Headquarters: Rochester, NY\n- Company Size: 10000+ employees\n- Ownership Type: Hospital\n- Industry: Health Care Services & Hospitals\n- Sector: Health Care\n- Revenue: $500 million to $1 billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "84500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: software engineer\n- Seniority: Other\n- Company: ClearEdge\n- Location: Annapolis Junction, MD\n- State/Province:  MD\n- Headquarters: Annapolis Junction, MD\n- Company Size: 51 to 200 employees\n- Ownership Type: Company - Private\n- Industry: Computer Hardware & Software\n- Sector: Information Technology\n- Revenue: $5 to $10 million (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "93500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: machine learning engineer\n- Seniority: Associate\n- Company: Tapjoy\n- Location: San Francisco, CA\n- State/Province:  CA\n- Headquarters: San Francisco, CA\n- Company Size: 201 to 500 employees\n- Ownership Type: Company - Private\n- Industry: Internet\n- Sector: Information Technology\n- Revenue: $10 to $25 million (USD)\n- Required Skills: Python=1, Spark=1, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "181000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data engineer\n- Seniority: Senior/Principal\n- Company: Pilot Flying J Travel Centers LLC\n- Location: Knoxville, TN\n- State/Province:  TN\n- Headquarters: Knoxville, TN\n- Company Size: 10000+ employees\n- Ownership Type: Company - Private\n- Industry: Gas Stations\n- Sector: Retail\n- Revenue: $10+ billion (USD)\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "98000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Other\n- Company: Fareportal\n- Location: New York, NY\n- State/Province:  NY\n- Headquarters: New York, NY\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Company - Private\n- Industry: Travel Agencies\n- Sector: Travel & Tourism\n- Revenue: $2 to $5 billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "65000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: Legal & General America\n- Location: Frederick, MD\n- State/Province:  MD\n- Headquarters: Frederick, MD\n- Company Size: 501 to 1000 employees\n- Ownership Type: Company - Private\n- Industry: Insurance Carriers\n- Sector: Insurance\n- Revenue: $500 million to $1 billion (USD)\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "107000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: Pfizer\n- Location: Cambridge, MA\n- State/Province:  MA\n- Headquarters: New York, NY\n- Company Size: 10000+ employees\n- Ownership Type: Company - Public\n- Industry: Biotech & Pharmaceuticals\n- Sector: Biotech & Pharmaceuticals\n- Revenue: $10+ billion (USD)\n- Required Skills: Python=1, Spark=0, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "86500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: Bakery Agency\n- Location: Austin, TX\n- State/Province:  TX\n- Headquarters: Austin, TX\n- Company Size: 1 to 50 employees\n- Ownership Type: Company - Private\n- Industry: Advertising & Marketing\n- Sector: Business Services\n- Revenue: Unknown\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "83500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Associate\n- Company: The HSC Health Care System\n- Location: Washington, DC\n- State/Province:  DC\n- Headquarters: Washington, DC\n- Company Size: 501 to 1000 employees\n- Ownership Type: Nonprofit Organization\n- Industry: Health Care Services & Hospitals\n- Sector: Health Care\n- Revenue: Unknown\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "50000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: Pfizer\n- Location: Groton, CT\n- State/Province:  CT\n- Headquarters: New York, NY\n- Company Size: 10000+ employees\n- Ownership Type: Company - Public\n- Industry: Biotech & Pharmaceuticals\n- Sector: Biotech & Pharmaceuticals\n- Revenue: $10+ billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "84000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: Novetta\n- Location: Herndon, VA\n- State/Province:  VA\n- Headquarters: Mc Lean, VA\n- Company Size: 501 to 1000 employees\n- Ownership Type: Company - Private\n- Industry: Enterprise Software & Network Solutions\n- Sector: Information Technology\n- Revenue: $100 to $500 million (USD)\n- Required Skills: Python=1, Spark=0, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "143000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Senior/Principal\n- Company: Plymouth Rock Assurance\n- Location: Woodbridge, NJ\n- State/Province:  NJ\n- Headquarters: Boston, MA\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Company - Private\n- Industry: Insurance Carriers\n- Sector: Insurance\n- Revenue: $10 to $25 million (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "98500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: Vanda Pharmaceuticals\n- Location: Washington, DC\n- State/Province:  DC\n- Headquarters: Washington, DC\n- Company Size: 201 to 500 employees\n- Ownership Type: Company - Public\n- Industry: Biotech & Pharmaceuticals\n- Sector: Biotech & Pharmaceuticals\n- Revenue: $100 to $500 million (USD)\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "101000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: other scientist\n- Seniority: Associate\n- Company: WK Dickson\n- Location: Columbia, SC\n- State/Province:  SC\n- Headquarters: Charlotte, NC\n- Company Size: 201 to 500 employees\n- Ownership Type: Company - Private\n- Industry: Architectural & Engineering Services\n- Sector: Business Services\n- Revenue: $25 to $50 million (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "60500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Senior/Principal\n- Company: MassMutual\n- Location: Springfield, MA\n- State/Province:  MA\n- Headquarters: Springfield, MA\n- Company Size: 5001 to 10000 employees\n- Ownership Type: Company - Private\n- Industry: Insurance Carriers\n- Sector: Insurance\n- Revenue: $10+ billion (USD)\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "81000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Other\n- Company: General Dynamics Information Technology\n- Location: Washington, DC\n- State/Province:  DC\n- Headquarters: Fairfax, VA\n- Company Size: 10000+ employees\n- Ownership Type: Subsidiary or Business Segment\n- Industry: IT Services\n- Sector: Information Technology\n- Revenue: $10+ billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "77000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: PNNL\n- Location: Richland, WA\n- State/Province:  WA\n- Headquarters: Richland, WA\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Government\n- Industry: Energy\n- Sector: Oil, Gas, Energy & Utilities\n- Revenue: $500 million to $1 billion (USD)\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "76500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: other scientist\n- Seniority: Senior/Principal\n- Company: Rochester Regional Health\n- Location: Rochester, NY\n- State/Province:  NY\n- Headquarters: Rochester, NY\n- Company Size: 10000+ employees\n- Ownership Type: Hospital\n- Industry: Health Care Services & Hospitals\n- Sector: Health Care\n- Revenue: $500 million to $1 billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "84500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: software engineer\n- Seniority: Other\n- Company: ClearEdge\n- Location: Annapolis Junction, MD\n- State/Province:  MD\n- Headquarters: Annapolis Junction, MD\n- Company Size: 51 to 200 employees\n- Ownership Type: Company - Private\n- Industry: Computer Hardware & Software\n- Sector: Information Technology\n- Revenue: $5 to $10 million (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "93500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Senior/Principal\n- Company: Brighthouse Financial\n- Location: Charlotte, NC\n- State/Province:  NC\n- Headquarters: Charlotte, NC\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Company - Public\n- Industry: Insurance Carriers\n- Sector: Insurance\n- Revenue: Unknown\n- Required Skills: Python=1, Spark=1, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "124500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data engineer\n- Seniority: Associate\n- Company: Affinity Solutions\n- Location: San Jose, CA\n- State/Province:  CA\n- Headquarters: New York, NY\n- Company Size: 51 to 200 employees\n- Ownership Type: Company - Private\n- Industry: Advertising & Marketing\n- Sector: Business Services\n- Revenue: Unknown\n- Required Skills: Python=1, Spark=1, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "114000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: machine learning engineer\n- Seniority: Associate\n- Company: Tapjoy\n- Location: San Francisco, CA\n- State/Province:  CA\n- Headquarters: San Francisco, CA\n- Company Size: 201 to 500 employees\n- Ownership Type: Company - Private\n- Industry: Internet\n- Sector: Information Technology\n- Revenue: $10 to $25 million (USD)\n- Required Skills: Python=1, Spark=1, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "181000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Other\n- Company: San Manuel Casino\n- Location: Highland, CA\n- State/Province:  CA\n- Headquarters: Highland, CA\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Company - Private\n- Industry: Gambling\n- Sector: Arts, Entertainment & Recreation\n- Revenue: $100 to $500 million (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "48500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: other scientist\n- Seniority: Other\n- Company: Texas Health Huguley Hospital\n- Location: Burleson, TX\n- State/Province:  TX\n- Headquarters: Arlington, TX\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Hospital\n- Industry: Health Care Services & Hospitals\n- Sector: Health Care\n- Revenue: $50 to $100 million (USD)\n- Required Skills: Python=0, Spark=0, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "44720"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Associate\n- Company: National Interstate\n- Location: Richfield, OH\n- State/Province:  OH\n- Headquarters: Richfield, OH\n- Company Size: 501 to 1000 employees\n- Ownership Type: Company - Private\n- Industry: Insurance Carriers\n- Sector: Insurance\n- Revenue: $500 million to $1 billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "45500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: other scientist\n- Seniority: Senior/Principal\n- Company: Reynolds American\n- Location: Winston-Salem, NC\n- State/Province:  NC\n- Headquarters: Winston-Salem, NC\n- Company Size: 5001 to 10000 employees\n- Ownership Type: Company - Private\n- Industry: Consumer Products Manufacturing\n- Sector: Manufacturing\n- Revenue: $10+ billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "117500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: business intelligence\n- Seniority: Other\n- Company: Crown Bioscience\n- Location: San Diego, CA\n- State/Province:  CA\n- Headquarters: San Diego, CA\n- Company Size: 501 to 1000 employees\n- Ownership Type: Company - Private\n- Industry: Biotech & Pharmaceuticals\n- Sector: Biotech & Pharmaceuticals\n- Revenue: $50 to $100 million (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "70500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: other scientist\n- Seniority: Senior/Principal\n- Company: Q2 Solutions\n- Location: Marietta, GA\n- State/Province:  GA\n- Headquarters: Morrisville, NC\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Company - Private\n- Industry: Biotech & Pharmaceuticals\n- Sector: Biotech & Pharmaceuticals\n- Revenue: Unknown\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "80000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: Zimmerman Advertising\n- Location: Fort Lauderdale, FL\n- State/Province:  FL\n- Headquarters: Fort Lauderdale, FL\n- Company Size: 501 to 1000 employees\n- Ownership Type: Subsidiary or Business Segment\n- Industry: Advertising & Marketing\n- Sector: Business Services\n- Revenue: Unknown\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "91000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Associate\n- Company: Fareportal\n- Location: New York, NY\n- State/Province:  NY\n- Headquarters: New York, NY\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Company - Private\n- Industry: Travel Agencies\n- Sector: Travel & Tourism\n- Revenue: $2 to $5 billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "65000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Senior/Principal\n- Company: Luminar Technologies\n- Location: Orlando, FL\n- State/Province:  FL\n- Headquarters: Orlando, FL\n- Company Size: 201 to 500 employees\n- Ownership Type: Company - Private\n- Industry: Computer Hardware & Software\n- Sector: Information Technology\n- Revenue: Unknown\n- Required Skills: Python=1, Spark=0, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "122000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: other scientist\n- Seniority: Associate\n- Company: Advanced BioScience Laboratories\n- Location: Rockville, MD\n- State/Province:  MD\n- Headquarters: Rockville, MD\n- Company Size: 201 to 500 employees\n- Ownership Type: Company - Private\n- Industry: Biotech & Pharmaceuticals\n- Sector: Biotech & Pharmaceuticals\n- Revenue: $25 to $50 million (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "81000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: Esri\n- Location: Redlands, CA\n- State/Province:  CA\n- Headquarters: Redlands, CA\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Company - Private\n- Industry: Computer Hardware & Software\n- Sector: Information Technology\n- Revenue: $1 to $2 billion (USD)\n- Required Skills: Python=1, Spark=1, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "68500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data engineer\n- Seniority: Senior/Principal\n- Company: F&G\n- Location: Des Moines, IA\n- State/Province:  IA\n- Headquarters: Des Moines, IA\n- Company Size: 201 to 500 employees\n- Ownership Type: Subsidiary or Business Segment\n- Industry: Insurance Carriers\n- Sector: Insurance\n- Revenue: $100 to $500 million (USD)\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "115500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Senior/Principal\n- Company: PNNL\n- Location: Seattle, WA\n- State/Province:  WA\n- Headquarters: Richland, WA\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Government\n- Industry: Energy\n- Sector: Oil, Gas, Energy & Utilities\n- Revenue: $500 million to $1 billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "119000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: other scientist\n- Seniority: Senior/Principal\n- Company: Southwest Research Institute\n- Location: San Antonio, TX\n- State/Province:  TX\n- Headquarters: San Antonio, TX\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Nonprofit Organization\n- Industry: Research & Development\n- Sector: Business Services\n- Revenue: $500 million to $1 billion (USD)\n- Required Skills: Python=1, Spark=0, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "71500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: other scientist\n- Seniority: Senior/Principal\n- Company: RTI International\n- Location: Durham, NC\n- State/Province:  NC\n- Headquarters: Research Triangle Park, NC\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Nonprofit Organization\n- Industry: Research & Development\n- Sector: Business Services\n- Revenue: $500 million to $1 billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "65500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Senior/Principal\n- Company: United BioSource\n- Location: Blue Bell, PA\n- State/Province:  PA\n- Headquarters: Blue Bell, PA\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Other Organization\n- Industry: Biotech & Pharmaceuticals\n- Sector: Biotech & Pharmaceuticals\n- Revenue: $100 to $500 million (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "72500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: business intelligence\n- Seniority: Senior/Principal\n- Company: Reynolds American\n- Location: Winston-Salem, NC\n- State/Province:  NC\n- Headquarters: Winston-Salem, NC\n- Company Size: 5001 to 10000 employees\n- Ownership Type: Company - Private\n- Industry: Consumer Products Manufacturing\n- Sector: Manufacturing\n- Revenue: $10+ billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "80500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: 1904labs\n- Location: Saint Louis, MO\n- State/Province:  MO\n- Headquarters: Saint Louis, MO\n- Company Size: 51 to 200 employees\n- Ownership Type: Company - Private\n- Industry: IT Services\n- Sector: Information Technology\n- Revenue: Unknown\n- Required Skills: Python=1, Spark=1, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "143500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Senior/Principal\n- Company: Recursion Pharmaceuticals\n- Location: Salt Lake City, UT\n- State/Province:  UT\n- Headquarters: Salt Lake City, UT\n- Company Size: 51 to 200 employees\n- Ownership Type: Company - Private\n- Industry: Biotech & Pharmaceuticals\n- Sector: Biotech & Pharmaceuticals\n- Revenue: $1 to $5 million (USD)\n- Required Skills: Python=1, Spark=0, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "140500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: 1-800-FLOWERS.COM, Inc.\n- Location: Carle Place, NY\n- State/Province:  NY\n- Headquarters: Carle Place, NY\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Company - Public\n- Industry: Wholesale\n- Sector: Business Services\n- Revenue: $1 to $2 billion (USD)\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "76500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data engineer\n- Seniority: Associate\n- Company: EAB\n- Location: Washington, DC\n- State/Province:  DC\n- Headquarters: Washington, DC\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Company - Private\n- Industry: Research & Development\n- Sector: Business Services\n- Revenue: Unknown\n- Required Skills: Python=0, Spark=1, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "65500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: IHS Markit\n- Location: New York, NY\n- State/Province:  NY\n- Headquarters: London, United Kingdom\n- Company Size: 10000+ employees\n- Ownership Type: Company - Public\n- Industry: Consulting\n- Sector: Business Services\n- Revenue: $2 to $5 billion (USD)\n- Required Skills: Python=1, Spark=0, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "80500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data engineer\n- Seniority: Associate\n- Company: Affinity Solutions\n- Location: San Jose, CA\n- State/Province:  CA\n- Headquarters: New York, NY\n- Company Size: 51 to 200 employees\n- Ownership Type: Company - Private\n- Industry: Advertising & Marketing\n- Sector: Business Services\n- Revenue: Unknown\n- Required Skills: Python=1, Spark=1, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "114000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: e-IT Professionals Corp.\n- Location: Foster City, CA\n- State/Province:  CA\n- Headquarters: Canton, MI\n- Company Size: 51 to 200 employees\n- Ownership Type: Company - Private\n- Industry: Health, Beauty, & Fitness\n- Sector: Consumer Services\n- Revenue: $5 to $10 million (USD)\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "139500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: PeoplesBank\n- Location: Holyoke, MA\n- State/Province:  MA\n- Headquarters: Holyoke, MA\n- Company Size: 201 to 500 employees\n- Ownership Type: Company - Private\n- Industry: Banks & Credit Unions\n- Sector: Finance\n- Revenue: $50 to $100 million (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "100500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: other scientist\n- Seniority: Senior/Principal\n- Company: Rochester Regional Health\n- Location: Rochester, NY\n- State/Province:  NY\n- Headquarters: Rochester, NY\n- Company Size: 10000+ employees\n- Ownership Type: Hospital\n- Industry: Health Care Services & Hospitals\n- Sector: Health Care\n- Revenue: $500 million to $1 billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "84500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Other\n- Company: Success Academy Charter Schools\n- Location: New York, NY\n- State/Province:  NY\n- Headquarters: New York, NY\n- Company Size: 1001 to 5000 employees\n- Ownership Type: School / School District\n- Industry: K-12 Education\n- Sector: Education\n- Revenue: $100 to $500 million (USD)\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "59500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: other scientist\n- Seniority: Entry Level\n- Company: GSK\n- Location: Cambridge, MA\n- State/Province:  MA\n- Headquarters: Brentford, United Kingdom\n- Company Size: 10000+ employees\n- Ownership Type: Company - Public\n- Industry: Biotech & Pharmaceuticals\n- Sector: Biotech & Pharmaceuticals\n- Revenue: $10+ billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "90500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: Adobe\n- Location: San Jose, CA\n- State/Province:  CA\n- Headquarters: San Jose, CA\n- Company Size: 10000+ employees\n- Ownership Type: Company - Public\n- Industry: Computer Hardware & Software\n- Sector: Information Technology\n- Revenue: $5 to $10 billion (USD)\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "162000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: business intelligence\n- Seniority: Other\n- Company: Audentes Therapeutics\n- Location: South San Francisco, CA\n- State/Province:  CA\n- Headquarters: San Francisco, CA\n- Company Size: 201 to 500 employees\n- Ownership Type: Subsidiary or Business Segment\n- Industry: Biotech & Pharmaceuticals\n- Sector: Biotech & Pharmaceuticals\n- Revenue: Unknown\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "73000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: other scientist\n- Seniority: Associate\n- Company: Advanced BioScience Laboratories\n- Location: Rockville, MD\n- State/Province:  MD\n- Headquarters: Rockville, MD\n- Company Size: 201 to 500 employees\n- Ownership Type: Company - Private\n- Industry: Biotech & Pharmaceuticals\n- Sector: Biotech & Pharmaceuticals\n- Revenue: $25 to $50 million (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "81000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: other scientist\n- Seniority: Other\n- Company: Reynolds American\n- Location: Winston-Salem, NC\n- State/Province:  NC\n- Headquarters: Winston-Salem, NC\n- Company Size: 5001 to 10000 employees\n- Ownership Type: Company - Private\n- Industry: Consumer Products Manufacturing\n- Sector: Manufacturing\n- Revenue: $10+ billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "99500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Associate\n- Company: The Hanover Insurance Group\n- Location: Worcester, MA\n- State/Province:  MA\n- Headquarters: Worcester, MA\n- Company Size: 5001 to 10000 employees\n- Ownership Type: Company - Public\n- Industry: Insurance Carriers\n- Sector: Insurance\n- Revenue: $5 to $10 billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "54000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data engineer\n- Seniority: Senior/Principal\n- Company: Moser Consulting\n- Location: Indianapolis, IN\n- State/Province:  IN\n- Headquarters: Indianapolis, IN\n- Company Size: 51 to 200 employees\n- Ownership Type: Company - Private\n- Industry: Consulting\n- Sector: Business Services\n- Revenue: $25 to $50 million (USD)\n- Required Skills: Python=1, Spark=1, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "122500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Other\n- Company: Fareportal\n- Location: New York, NY\n- State/Province:  NY\n- Headquarters: New York, NY\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Company - Private\n- Industry: Travel Agencies\n- Sector: Travel & Tourism\n- Revenue: $2 to $5 billion (USD)\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "53500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Other\n- Company: Associated Banc-Corp\n- Location: Green Bay, WI\n- State/Province:  WI\n- Headquarters: Green Bay, WI\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Company - Public\n- Industry: Banks & Credit Unions\n- Sector: Finance\n- Revenue: $1 to $2 billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "60000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Senior/Principal\n- Company: Moda Operandi\n- Location: New York, NY\n- State/Province:  NY\n- Headquarters: New York, NY\n- Company Size: 201 to 500 employees\n- Ownership Type: Company - Private\n- Industry: Department, Clothing, & Shoe Stores\n- Sector: Retail\n- Revenue: $100 to $500 million (USD)\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "87500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: business intelligence\n- Seniority: Associate\n- Company: QK\n- Location: Clovis, CA\n- State/Province:  CA\n- Headquarters: Visalia, CA\n- Company Size: 51 to 200 employees\n- Ownership Type: Company - Private\n- Industry: Architectural & Engineering Services\n- Sector: Business Services\n- Revenue: $10 to $25 million (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "51000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Senior/Principal\n- Company: PA Consulting\n- Location: Boston, MA\n- State/Province:  MA\n- Headquarters: London, United Kingdom\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Company - Private\n- Industry: Consulting\n- Sector: Business Services\n- Revenue: $100 to $500 million (USD)\n- Required Skills: Python=0, Spark=1, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "107500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data engineer\n- Seniority: Senior/Principal\n- Company: Praetorian\n- Location: Austin, TX\n- State/Province:  TX\n- Headquarters: Austin, TX\n- Company Size: 51 to 200 employees\n- Ownership Type: Company - Private\n- Industry: Security Services\n- Sector: Business Services\n- Revenue: $10 to $25 million (USD)\n- Required Skills: Python=1, Spark=1, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "138500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data engineer\n- Seniority: Other\n- Company: COUNTRY Financial\n- Location: Bloomington, IL\n- State/Province:  IL\n- Headquarters: Bloomington, IL\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Company - Private\n- Industry: Insurance Carriers\n- Sector: Insurance\n- Revenue: $2 to $5 billion (USD)\n- Required Skills: Python=1, Spark=1, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "58500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data engineer\n- Seniority: Senior/Principal\n- Company: Echo Global Logistics\n- Location: Chicago, IL\n- State/Province:  IL\n- Headquarters: Chicago, IL\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Company - Public\n- Industry: Transportation Management\n- Sector: Transportation & Logistics\n- Revenue: $2 to $5 billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "107500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: other scientist\n- Seniority: Other\n- Company: Agios Pharmaceuticals\n- Location: Cambridge, MA\n- State/Province:  MA\n- Headquarters: Cambridge, MA\n- Company Size: 501 to 1000 employees\n- Ownership Type: Company - Public\n- Industry: Biotech & Pharmaceuticals\n- Sector: Biotech & Pharmaceuticals\n- Revenue: $50 to $100 million (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "120500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: Esri\n- Location: Redlands, CA\n- State/Province:  CA\n- Headquarters: Redlands, CA\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Company - Private\n- Industry: Computer Hardware & Software\n- Sector: Information Technology\n- Revenue: $1 to $2 billion (USD)\n- Required Skills: Python=1, Spark=1, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "68500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Senior/Principal\n- Company: PNNL\n- Location: Richland, WA\n- State/Province:  WA\n- Headquarters: Richland, WA\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Government\n- Industry: Energy\n- Sector: Oil, Gas, Energy & Utilities\n- Revenue: $500 million to $1 billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "80500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Senior/Principal\n- Company: DoubleVerify\n- Location: New York, NY\n- State/Province:  NY\n- Headquarters: New York, NY\n- Company Size: 201 to 500 employees\n- Ownership Type: Company - Private\n- Industry: Internet\n- Sector: Information Technology\n- Revenue: Unknown\n- Required Skills: Python=1, Spark=1, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "83000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: research scientist\n- Seniority: Senior/Principal\n- Company: Mitsubishi Electric Research Labs\n- Location: Cambridge, MA\n- State/Province:  MA\n- Headquarters: Cambridge, MA\n- Company Size: 51 to 200 employees\n- Ownership Type: Subsidiary or Business Segment\n- Industry: Research & Development\n- Sector: Business Services\n- Revenue: $5 to $10 million (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "167500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Other\n- Company: DESC\n- Location: Seattle, WA\n- State/Province:  WA\n- Headquarters: Seattle, WA\n- Company Size: 501 to 1000 employees\n- Ownership Type: Nonprofit Organization\n- Industry: Social Assistance\n- Sector: Non-Profit\n- Revenue: $25 to $50 million (USD)\n- Required Skills: Python=0, Spark=0, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "44500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Senior/Principal\n- Company: Community Behavioral Health\n- Location: Philadelphia, PA\n- State/Province:  PA\n- Headquarters: Phila, PA\n- Company Size: 201 to 500 employees\n- Ownership Type: Company - Private\n- Industry: Health Care Services & Hospitals\n- Sector: Health Care\n- Revenue: $500 million to $1 billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "69500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data engineer\n- Seniority: Other\n- Company: Alignment Healthcare\n- Location: Orange, CA\n- State/Province:  CA\n- Headquarters: Orange, CA\n- Company Size: 501 to 1000 employees\n- Ownership Type: Company - Private\n- Industry: Health Care Services & Hospitals\n- Sector: Health Care\n- Revenue: Unknown\n- Required Skills: Python=1, Spark=1, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "94500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: ExecOnline\n- Location: New York, NY\n- State/Province:  NY\n- Headquarters: New York, NY\n- Company Size: 51 to 200 employees\n- Ownership Type: Company - Private\n- Industry: Education Training Services\n- Sector: Education\n- Revenue: Unknown\n- Required Skills: Python=1, Spark=0, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "75500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: machine learning engineer\n- Seniority: Other\n- Company: Cboe Global Markets\n- Location: Lenexa, KS\n- State/Province:  KS\n- Headquarters: Chicago, IL\n- Company Size: 501 to 1000 employees\n- Ownership Type: Company - Public\n- Industry: Stock Exchanges\n- Sector: Finance\n- Revenue: $500 million to $1 billion (USD)\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "87000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data engineer\n- Seniority: Other\n- Company: Saama Technologies Inc\n- Location: Phoenix, AZ\n- State/Province:  AZ\n- Headquarters: Campbell, CA\n- Company Size: 501 to 1000 employees\n- Ownership Type: Company - Private\n- Industry: Biotech & Pharmaceuticals\n- Sector: Biotech & Pharmaceuticals\n- Revenue: Unknown\n- Required Skills: Python=1, Spark=1, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "68500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Other\n- Company: SoftBank Robotics\n- Location: San Francisco, CA\n- State/Province:  CA\n- Headquarters: Paris, France\n- Company Size: 201 to 500 employees\n- Ownership Type: Subsidiary or Business Segment\n- Industry: Consumer Products Manufacturing\n- Sector: Manufacturing\n- Revenue: $25 to $50 million (USD)\n- Required Skills: Python=1, Spark=0, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "103000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: other\n- Seniority: Other\n- Company: Medidata Solutions\n- Location: New York, NY\n- State/Province:  NY\n- Headquarters: New York, NY\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Company - Public\n- Industry: Enterprise Software & Network Solutions\n- Sector: Information Technology\n- Revenue: $500 million to $1 billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=1\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "86500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Senior/Principal\n- Company: Signpost\n- Location: New York, NY\n- State/Province:  NY\n- Headquarters: New York, NY\n- Company Size: 201 to 500 employees\n- Ownership Type: Company - Private\n- Industry: Internet\n- Sector: Information Technology\n- Revenue: $10 to $25 million (USD)\n- Required Skills: Python=0, Spark=1, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "47000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: other scientist\n- Seniority: Other\n- Company: Beebe Healthcare\n- Location: Millville, DE\n- State/Province:  DE\n- Headquarters: Lewes, DE\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Nonprofit Organization\n- Industry: Health Care Services & Hospitals\n- Sector: Health Care\n- Revenue: $100 to $500 million (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "57200"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data analyst\n- Seniority: Other\n- Company: Fareportal\n- Location: New York, NY\n- State/Province:  NY\n- Headquarters: New York, NY\n- Company Size: 1001 to 5000 employees\n- Ownership Type: Company - Private\n- Industry: Travel Agencies\n- Sector: Travel & Tourism\n- Revenue: $2 to $5 billion (USD)\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "53500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Senior/Principal\n- Company: TransUnion\n- Location: Chicago, IL\n- State/Province:  IL\n- Headquarters: Chicago, IL\n- Company Size: 5001 to 10000 employees\n- Ownership Type: Company - Public\n- Industry: Financial Analytics & Research\n- Sector: Finance\n- Revenue: $1 to $2 billion (USD)\n- Required Skills: Python=1, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "140000"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Senior/Principal\n- Company: MITRE\n- Location: Hampton, VA\n- State/Province:  VA\n- Headquarters: Bedford, MA\n- Company Size: 5001 to 10000 employees\n- Ownership Type: Nonprofit Organization\n- Industry: Federal Agencies\n- Sector: Government\n- Revenue: $1 to $2 billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "77500"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a recruitment expert.\nTask: Estimate the annual salary in USD from the given job and company info.\nOutput rules:\n- Print one integer only (no text, no commas, no dots, no units).\n- If uncertain, still output your best single integer.\n"
+      },
+      {
+        "role": "user",
+        "content": "Based on the following information, please estimate the annual salary (USD):\n- Job Title: data scientist\n- Seniority: Senior/Principal\n- Company: IQVIA\n- Location: Plymouth Meeting, PA\n- State/Province:  PA\n- Headquarters: Durham, NC\n- Company Size: 10000+ employees\n- Ownership Type: Company - Public\n- Industry: Biotech & Pharmaceuticals\n- Sector: Biotech & Pharmaceuticals\n- Revenue: $2 to $5 billion (USD)\n- Required Skills: Python=0, Spark=0, AWS=0\n\nPlease respond with a SINGLE NUMBER representing the *annual salary* (USD)."
+      },
+      {
+        "role": "assistant",
+        "content": "111500"
+      }
+    ]
+  }
+]
