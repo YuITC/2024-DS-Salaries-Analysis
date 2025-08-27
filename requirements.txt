@@ -1,8 +1,37 @@
+# Data manipulation
 numpy
 pandas
 scipy
-matplotlib
-seaborn
+selenium
+
+# Machine Learning
 scikit-learn
 xgboost
-joblib
+optuna
+
+# Hugging Face
+transformers
+datasets
+huggingface-hub
+
+# Deep Learning
+torch==2.6.0 --index-url https://download.pytorch.org/whl/cu126
+bitsandbytes
+peft
+trl<=0.19.0
+wandb
+jinja2>=3.1.0
+
+# OpenAI
+openai
+
+# Visualization
+tqdm
+seaborn
+matplotlib
+
+# Others
+nbformat
+ipywidgets
+python-dotenv
+streamlit
