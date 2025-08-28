@@ -19,6 +19,8 @@ This project aims to predict data science job salaries using multiple modeling a
 
 The project targets data science professionals, recruiters, and researchers interested in salary analysis and prediction methodologies. It addresses the challenge of accurately estimating data science salaries by incorporating various job-related features and exploring the potential of LLMs in regression tasks. The interactive Streamlit application makes salary prediction accessible to both technical and non-technical users.
 
+👉 Fine-tuned LLaMA 3.1 QLoRA model is available here: [YuITC/llama31-8b-ins-qlora-sft](https://huggingface.co/YuITC/llama31-8b-ins-qlora-sft)
+
 ## 🧑‍💻 Tech Stack  
 
 > Selenium, Pandas, NumPy, Scikit-learn, XGBoost, Optuna, PyTorch, Transformers, PEFT (QLoRA), SFT, OpenAI SDK, Hugging Face, Weights & Biases
