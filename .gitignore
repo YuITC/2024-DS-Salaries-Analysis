@@ -2,3 +2,4 @@
 .venv
 notebooks/wandb/
 outputs/qlora/
+.github/
